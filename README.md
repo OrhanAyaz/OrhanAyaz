@@ -1,10 +1,5 @@
 ### Merhaba 👋
 
-<!--
-**OrhanAyaz/OrhanAyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 + 🔭 Bir web sitesinde çalışıyorum
 + 🌱 Şu anda JS, React ve Java Teknolojilerini öğreniyorum
 + 👯 Ön uç geliştirme, React ile ilgili projeler üzeinde işbirliği yapmaktan memnuniyet duyarım
@@ -12,4 +7,12 @@
 + 💬 Bana HTML, CSS, JS, React hakkında soru sor
 + 📫 Bana orhanayazzz444@gmail.com 'dan ulaşabilirsiniz
  Orhan AYAZ
+
+
+
+
+
+<!--
+**OrhanAyaz/OrhanAyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 -->
